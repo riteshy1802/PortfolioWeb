@@ -264,6 +264,7 @@ nav{
   }
   .img{
     width: 45%;
+    height: 40vmin;
   }
   .info{
     width: 40vmin;
@@ -305,6 +306,7 @@ nav{
   }
   .img{
     width: 45%;
+    height: 40vmin;
   }
   .info{
     width: 40vmin;
@@ -353,6 +355,9 @@ nav{
   }
   .text2{
     font-size: 1.1rem;
+  }
+  .img{
+    height: 40vmin;
   }
   .element{
     font-size: 0.8em;
