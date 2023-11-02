@@ -183,7 +183,7 @@ nav{
 }
 .img{
   width: 45%;
-  height: auto;
+  height: 25rem;
   border-radius: 3vmin;
   box-shadow: 10px 10px 20px rgb(60, 58, 58);
 }
@@ -332,6 +332,15 @@ nav{
   .element{
     font-size: 0.9em;
   }
+  .connect-links .resume{
+    font-size:1.2em ;
+  }
+  .connect-links #git{
+    font-size:2em ;
+  }
+  .connect-links #lin{
+    font-size:2em ;
+  }
 }
 @media only screen and (max-width:630px) {
   
@@ -362,6 +371,15 @@ nav{
   .element{
     font-size: 0.8em;
   }
+  .connect-links .resume{
+    font-size:1.2em ;
+  }
+  .connect-links #git{
+    font-size:2em ;
+  }
+  .connect-links #lin{
+    font-size:2em ;
+  }
 }
 @media only screen and (max-width:470px) {
   .mainlogo{
@@ -381,8 +399,17 @@ nav{
   .element{
     font-size: 0.6em;
   }
+  .connect-links .resume{
+    font-size:1.2em ;
+  }
+  .connect-links #git{
+    font-size:2em ;
+  }
+  .connect-links #lin{
+    font-size:2em ;
+  }
 }
-@media only screen and (max-width:470px){
+@media only screen and (max-width:400px){
   .element{
     font-size: 0.4rem;
   }
