@@ -24,7 +24,7 @@ export default [
         title : "SubwayTrack",
         about : "A Project to keep track of the people entering a Subway",
         langs : ["HTML5","CSS3","Javascript"],
-        link : "https://magical-marzipan-8d2c43.netlify.app/",
+        link : "https://passenger-track-counter.vercel.app/",
         code : "https://github.com/riteshy1802/PassengerTrackCounter"
     },
     {
@@ -36,11 +36,11 @@ export default [
         code : "https://github.com/riteshy1802/Basketball-ScoreBoard"
     },
     {
-        image : "BusinessCardImage.png",
+        image : "BusinesscardImage.png",
         title : "BusinessCard",
         about : "A Project to provide essential contact information and details about an individual, a business, or a company.",
         langs : ["React.js","CSS3"],
-        link : "https://business-card1-iota.vercel.app/",
+        link : "https://business-card1-bc2c.vercel.app/",
         code : "https://github.com/riteshy1802/Basketball-ScoreBoard"
     }
 ]
