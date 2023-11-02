@@ -183,7 +183,7 @@ nav{
 }
 .img{
   width: 45%;
-  height: 50vmin;
+  height: auto;
   border-radius: 3vmin;
   box-shadow: 10px 10px 20px rgb(60, 58, 58);
 }
