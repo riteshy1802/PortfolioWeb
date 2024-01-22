@@ -36,7 +36,7 @@ export default [
         code : "https://github.com/riteshy1802/Basketball-ScoreBoard"
     },
     {
-        image : "BusinessCardImage.png",
+        image : "BussinessCardImage1.jpg",
         title : "BusinessCard",
         about : "A Project to provide essential contact information and details about an individual, a business, or a company.",
         langs : ["React.js","CSS3"],
