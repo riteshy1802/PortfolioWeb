@@ -30,7 +30,7 @@ export default [
     {
         image : "basketballScoreCard.png",
         title : "BasketScore",
-        about : "A BasketBall Scoreboard Website to ",
+        about : "A BasketBall Scoreboard Website to keep track of the Scores",
         langs : ["HTML5","CSS3","Javascript"],
         link : "https://remarkable-croissant-4dc06c.netlify.app/",
         code : "https://github.com/riteshy1802/Basketball-ScoreBoard"
@@ -42,5 +42,21 @@ export default [
         langs : ["React.js","CSS3"],
         link : "https://business-card1-bc2c.vercel.app/",
         code : "https://github.com/riteshy1802/Basketball-ScoreBoard"
+    },
+    {
+        image : "toDoList.jpg",
+        title : "Task Tracker",
+        about : "A project for keeping track of the Do's",
+        langs : ["JS","CSS3","HTML5"],
+        link : "https://graceful-cannoli-f5c215.netlify.app/",
+        code : "https://github.com/riteshy1802/ToDo"
+    },
+    {
+        image : "BlackJackGame.jpg",
+        title : "BlackJack",
+        about : "Experience the thrill of a casino-favorite card game online!",
+        langs : ["JS","CSS3","HTML5"],
+        link : "https://black-jack-game-baytajyfz-riteshs-projects-ac706131.vercel.app/",
+        code : "https://github.com/riteshy1802/BlackJack-Game"
     }
 ]
